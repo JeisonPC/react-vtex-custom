@@ -1,5 +1,5 @@
 {
   "admin/test": "test",
   "store/test": "test",
-  "admin.category.label": "banner modifier"
+  "category.navigation.label": "Banner Modifier"
 }

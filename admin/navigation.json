@@ -1,0 +1,10 @@
+{
+  "section": "orders",
+  "titleId": "category.navigation.label",
+  "subSectionItems": [
+    {
+      "labelId": "category.navigation.label",
+      "path": "/admin/modifier"
+    }
+  ]
+}

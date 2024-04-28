@@ -1,0 +1,6 @@
+{
+  "admin.app.category": {
+    "component": "AdminExample",
+    "path": "/admin/app/modifier"
+  }
+}
